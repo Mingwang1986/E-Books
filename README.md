@@ -5,14 +5,15 @@
 |书名                                                                 |提取密码        |
 |:--------------------------------------------------------------------|:----------------|
 |[Python核心编程(第2版) - 丘恩 (Wesley J.Chun).mobi](http://pan.baidu.com/s/1jIq7aHg)|5nni|
+|[算法导论.mobi](http://pan.baidu.com/s/1dFHL8zB)|yv93|
 |[用Python做科学计算.pdf](http://pan.baidu.com/s/1nuUMmgh)|7snw|
 |[30天学通Java_Web项目案例开发.pdf](http://pan.baidu.com/s/1eS0iAeY)  |67th|
 |[Struts中文手册.pdf](http://pan.baidu.com/s/1i5JFso9)                |z22w|
 |[Android游戏开发大全.pdf](http://pan.baidu.com/s/1o85XVx4)|5v9w|
 |[《Google Android SDK开发范例大全(第3版)》.pdf](http://pan.baidu.com/s/1cyoSbG)|ig8f|
 |[Hadoop权威指南.pdf](http://pan.baidu.com/s/1dFHfBUx)|5sgj|
-|[JAVA网络编程(第3版)itsrcs.pdf](http://pan.baidu.com/s/1kUUQrIJ)|j9r7|
-|[从零开始学C_#.pdf](http://pan.baidu.com/s/1pKQEzF1)|4nzd|
+|[JAVA网络编程(第3版).pdf](http://pan.baidu.com/s/1kUUQrIJ)|j9r7|
+|[从零开始学C#.pdf](http://pan.baidu.com/s/1pKQEzF1)|4nzd|
 |[数学之美系列完整版.mobi](http://pan.baidu.com/s/1bQyUvW)|vu4a|
 |[《Android学习精要》(高洪岩).pdf](http://pan.baidu.com/s/1eSLhuYu)|c4da|
 |[JavaScript权威指南.azw3](http://pan.baidu.com/s/1c1zW0la)|uter|
@@ -21,7 +22,7 @@
 |[啊哈！算法.pdf](http://pan.baidu.com/s/1i467PS5)|ik8c|
 |[Linux服务器架设篇(第二版).pdf](http://pan.baidu.com/s/1o7V0hp4)|ivkc|
 |[细说php第二版.pdf](http://pan.baidu.com/s/1o7FlimY)|t7ck|
-|[[Android系统级深入开发—移植与调试].韩超.梁泉.pdf](http://pan.baidu.com/s/1bpDfUaj)|cghd|
+|[Android系统级深入开发—移植与调试-韩超/梁泉.pdf](http://pan.baidu.com/s/1bpDfUaj)|cghd|
 |[Learning Python.mobi](http://pan.baidu.com/s/1skRqp8D)|6rdi|
 |[Android应用案例开发大全.pdf](http://pan.baidu.com/s/1boH90wZ)|irtp|
 |[网络故障分析手册.pdf](http://pan.baidu.com/s/1kUQg93x)|y3nb|
@@ -33,6 +34,10 @@
 |[MATLAB.GUI设计学习手记(第2版).罗华飞.扫描版.pdf](http://pan.baidu.com/s/1gfHb7mb)|4jvx|
 |[隐匿在计算机软硬件背后的语言.pdf](http://pan.baidu.com/s/1eRYyrzc)|gn4g|
 |[《数据挖掘基础与应用(SQL Server 2008)》.(谢邦昌).pdf](http://pan.baidu.com/s/1bpLn1ef)|jx9x|
+|[Android 3D游戏开发技术宝典_OpenGL ES 2.0.pdf](http://pan.baidu.com/s/1eSa0jAy)|y4rg|
+|[精通Matlab与C C++ 混合程序设计.pdf](http://pan.baidu.com/s/1chZRQ2)|dv4h|
+|[移动开发应该避免的10种错误.mobi](http://pan.baidu.com/s/1hsjj7vu)|9vx2|
+|[Java编程思想(第4版).pdf](http://pan.baidu.com/s/1nvOWO9j)|tfnj|
 
 
 
@@ -56,3 +61,5 @@
 |[世界因你不同.mobi](http://pan.baidu.com/s/1dEOWSil)|dhd1|
 |[把你的英语用起来！.mobi](http://pan.baidu.com/s/1dF4Uv8t)|ssjj|
 |[血腥的盛唐（套装全7册）.mobi](http://pan.baidu.com/s/1mi0CtBy)|jmw7|
+|[魔戒（插图珍藏版）.mobi](http://pan.baidu.com/s/1kVcrQjt)|6jnc|
+|[十个词汇里的中国.mobi](http://pan.baidu.com/s/1kV2GpvD)|ueic|
