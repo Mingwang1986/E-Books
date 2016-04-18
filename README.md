@@ -25,6 +25,11 @@
 |[Learning Python.mobi](http://pan.baidu.com/s/1skRqp8D)|6rdi|
 |[Android应用案例开发大全.pdf](http://pan.baidu.com/s/1boH90wZ)|irtp|
 |[网络故障分析手册.pdf](http://pan.baidu.com/s/1kUQg93x)|y3nb|
+|[Linux命令行和shell脚本编程宝典.(美)布卢姆.扫描版.pdf](http://pan.baidu.com/s/1jHR47II)|yx4v|
+|[网络工程师实验大全.pdf](http://pan.baidu.com/s/1cLp2uM)|gkzk|
+|[程序员面试宝典(第4版)-欧立奇&刘洋&段韬.mobi](http://pan.baidu.com/s/1i5q9dit)|d6xr|
+|[Android开发应用实战详解.pdf](http://pan.baidu.com/s/1c15wgQO)|t4fk|
+|[MATLAB与外部程序接口.pdf](http://pan.baidu.com/s/1dF9Eefn)|dv9p|
 
 
 ##杂项
@@ -41,3 +46,5 @@
 |[中华对联大典.mobi](http://pan.baidu.com/s/1dFdka6P)|5s7q|
 |[蒋勋说红楼梦修订本(套装共3册).mobi](http://pan.baidu.com/s/1eRMSXUi)|sahx|
 |[周易江湖-3658.mobi](http://pan.baidu.com/s/1c2iBJNi)|4rae|
+|[当我足够好，才会遇见你-Lydia.mobi](http://pan.baidu.com/s/1qYcNCWO)|caa8|
+|[红楼梦诗词曲赋鉴赏.mobi](http://pan.baidu.com/s/1pL3od7P)|54yw|
