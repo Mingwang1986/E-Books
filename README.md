@@ -54,3 +54,5 @@
 |[红楼梦诗词曲赋鉴赏.mobi](http://pan.baidu.com/s/1pL3od7P)|54yw|
 |[中华书局版 福尔摩斯探案全集(插图新注新译本)全七册](http://pan.baidu.com/s/1sl3jXoT)|6m73|
 |[世界因你不同.mobi](http://pan.baidu.com/s/1dEOWSil)|dhd1|
+|[把你的英语用起来！.mobi](http://pan.baidu.com/s/1dF4Uv8t)|ssjj|
+|[血腥的盛唐（套装全7册）.mobi](http://pan.baidu.com/s/1mi0CtBy)|jmw7|
