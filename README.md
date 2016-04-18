@@ -30,6 +30,10 @@
 |[程序员面试宝典(第4版)-欧立奇&刘洋&段韬.mobi](http://pan.baidu.com/s/1i5q9dit)|d6xr|
 |[Android开发应用实战详解.pdf](http://pan.baidu.com/s/1c15wgQO)|t4fk|
 |[MATLAB与外部程序接口.pdf](http://pan.baidu.com/s/1dF9Eefn)|dv9p|
+|[MATLAB.GUI设计学习手记(第2版).罗华飞.扫描版.pdf](http://pan.baidu.com/s/1gfHb7mb)|4jvx|
+|[隐匿在计算机软硬件背后的语言.pdf](http://pan.baidu.com/s/1eRYyrzc)|gn4g|
+|[《数据挖掘基础与应用(SQL Server 2008)》.(谢邦昌).pdf](http://pan.baidu.com/s/1bpLn1ef)|jx9x|
+
 
 
 ##杂项
@@ -48,3 +52,5 @@
 |[周易江湖-3658.mobi](http://pan.baidu.com/s/1c2iBJNi)|4rae|
 |[当我足够好，才会遇见你-Lydia.mobi](http://pan.baidu.com/s/1qYcNCWO)|caa8|
 |[红楼梦诗词曲赋鉴赏.mobi](http://pan.baidu.com/s/1pL3od7P)|54yw|
+|[中华书局版 福尔摩斯探案全集(插图新注新译本)全七册](http://pan.baidu.com/s/1sl3jXoT)|6m73|
+|[世界因你不同.mobi](http://pan.baidu.com/s/1dEOWSil)|dhd1|
