@@ -20,6 +20,12 @@
 |[深入理解Android卷II.azw3](http://pan.baidu.com/s/1jI71ZlO)|rkba|
 |[啊哈！算法.pdf](http://pan.baidu.com/s/1i467PS5)|ik8c|
 |[Linux服务器架设篇(第二版).pdf](http://pan.baidu.com/s/1o7V0hp4)|ivkc|
+|[细说php第二版.pdf](http://pan.baidu.com/s/1o7FlimY)|t7ck|
+|[[Android系统级深入开发—移植与调试].韩超.梁泉.pdf](http://pan.baidu.com/s/1bpDfUaj)|cghd|
+|[Learning Python.mobi](http://pan.baidu.com/s/1skRqp8D)|6rdi|
+|[Android应用案例开发大全.pdf](http://pan.baidu.com/s/1boH90wZ)|irtp|
+|[网络故障分析手册.pdf](http://pan.baidu.com/s/1kUQg93x)|y3nb|
+
 
 ##杂项
 |书名                                                                 |提取密码        |
@@ -33,3 +39,5 @@
 |[老人与海(50周年纪念版 kindle正版).mobi](http://pan.baidu.com/s/1dECfGYl)|385j|
 |[<围城>-钱钟书.mobi](http://pan.baidu.com/s/1slDtwgH)|hbn2|
 |[中华对联大典.mobi](http://pan.baidu.com/s/1dFdka6P)|5s7q|
+|[蒋勋说红楼梦修订本(套装共3册).mobi](http://pan.baidu.com/s/1eRMSXUi)|sahx|
+|[周易江湖-3658.mobi](http://pan.baidu.com/s/1c2iBJNi)|4rae|
