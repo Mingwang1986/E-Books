@@ -1,4 +1,4 @@
-# E-books
+# 各类电子书整理
 
 ## 编程
 
@@ -18,6 +18,8 @@
 |[JavaScript权威指南.azw3](http://pan.baidu.com/s/1c1zW0la)|uter|
 |[Java案例开发.pdf](http://pan.baidu.com/s/1nvlHlhv)|qndp|
 |[深入理解Android卷II.azw3](http://pan.baidu.com/s/1jI71ZlO)|rkba|
+|[啊哈！算法.pdf](http://pan.baidu.com/s/1i467PS5)|ik8c|
+|[Linux服务器架设篇(第二版).pdf](http://pan.baidu.com/s/1o7V0hp4)|ivkc|
 
 ##杂项
 |书名                                                                 |提取密码        |
@@ -30,3 +32,4 @@
 |[旧时光--三周年完美纪念版(kindle正版).mobi](http://pan.baidu.com/s/1o7ScuKE)|jeug|
 |[老人与海(50周年纪念版 kindle正版).mobi](http://pan.baidu.com/s/1dECfGYl)|385j|
 |[<围城>-钱钟书.mobi](http://pan.baidu.com/s/1slDtwgH)|hbn2|
+|[中华对联大典.mobi](http://pan.baidu.com/s/1dFdka6P)|5s7q|
